@@ -47,7 +47,9 @@ CNAES_CONTABILIDADE = ["6920601", "6920602", "7020400"]
 SITUACAO_ATIVA = "02"
 
 # Estado que deseja filtrar (ex: "MG", "SP")
-UF_FILTRADA = "MG"```
+UF_FILTRADA = "MG"
+
+```
 
 Você irá precisar dos arquivos com os dados, que é disponibilizado no 
 portal gov.br são um total de 10 arquivos que tem os dados com o CNPJ 
@@ -57,19 +59,19 @@ link para download: ```https://arquivos.receitafederal.gov.br/dados/cnpj/dados_a
 
 
 
-## 🖥️ Como rodar o script
+# 🖥️ Como rodar o script
 Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git```
+git clone https://github.com/seu-usuario/seu-repo.git
 
-
+```
 ## Instale as dependências:
 
-```pip install pandas openpyxl```
-
+```pip install pandas openpyxl
+```
 ## Execute o script:
 
-```python script.py```
+```python script.py
 
 
