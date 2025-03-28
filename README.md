@@ -51,9 +51,6 @@ SITUACAO_ATIVA = "02"
 UF_FILTRADA = "MG"
 
 ```
-=======
-UF_FILTRADA = "MG" 
-´´´
 
 Você irá precisar dos arquivos com os dados, que é disponibilizado no 
 portal gov.br são um total de 10 arquivos que tem os dados com o CNPJ 
