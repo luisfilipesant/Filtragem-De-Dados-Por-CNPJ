@@ -2,6 +2,9 @@
 
 Este projeto é um script em Python que automatiza a leitura, filtragem e organização de grandes volumes de dados públicos de empresas brasileiras, com base nos arquivos disponibilizados pelo governo federal (como os arquivos `PLAN*.ESTABELE` e a base de municípios).
 
+> ⚠️ Aviso Legal: Este projeto utiliza exclusivamente dados públicos extraídos do portal de dados abertos da Receita Federal do Brasil. Não são utilizados dados sensíveis ou de pessoa física, em conformidade com a LGPD (Lei Geral de Proteção de Dados - Lei nº 13.709/2018).
+
+
 ---
 <img src="imggit.png" width="600">
 
