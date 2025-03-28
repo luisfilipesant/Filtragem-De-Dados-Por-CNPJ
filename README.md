@@ -3,6 +3,8 @@
 Este projeto é um script em Python que automatiza a leitura, filtragem e organização de grandes volumes de dados públicos de empresas brasileiras, com base nos arquivos disponibilizados pelo governo federal (como os arquivos `PLAN*.ESTABELE` e a base de municípios).
 
 ---
+<img src="imggit.png" width="600">
+
 
 ##  O que o script faz
 
