@@ -1,10 +1,10 @@
-# 📊 Filtragem e Estruturação de Dados Públicos de Empresas (CNAE + UF)
+#  Filtragem e Estruturação de Dados Públicos de Empresas (CNAE + UF)
 
 Este projeto é um script em Python que automatiza a leitura, filtragem e organização de grandes volumes de dados públicos de empresas brasileiras, com base nos arquivos disponibilizados pelo governo federal (como os arquivos `PLAN*.ESTABELE` e a base de municípios).
 
 ---
 
-## 🚀 O que o script faz
+##  O que o script faz
 
 - Lê arquivos CSV massivos (com milhões de linhas) de forma eficiente
 - Filtra apenas os registros de **empresas ativas** com **CNAEs específicos**
@@ -17,7 +17,7 @@ Este projeto é um script em Python que automatiza a leitura, filtragem e organi
 
 ---
 
-## 🧾 Exemplos de uso
+##  Exemplos de uso
 
 - Obter a lista de empresas de contabilidade ativas em Minas Gerais
 - Gerar uma base de contatos por setor e UF para prospecção
@@ -26,7 +26,7 @@ Este projeto é um script em Python que automatiza a leitura, filtragem e organi
 
 ---
 
-## ⚙️ Como configurar
+##  Como configurar
 
 No início do script, você deve editar os seguintes parâmetros:
 
