@@ -47,7 +47,6 @@ CNAES_CONTABILIDADE = ["6920601", "6920602", "7020400"]
 SITUACAO_ATIVA = "02"
 
 # Estado que deseja filtrar (ex: "MG", "SP")
-<<<<<<< HEAD
 UF_FILTRADA = "MG"
 
 ```
@@ -56,14 +55,16 @@ Você irá precisar dos arquivos com os dados, que é disponibilizado no
 portal gov.br são um total de 10 arquivos que tem os dados com o CNPJ 
 e um arquivo com o código de todos os municipios. 
 
-link para download: ```https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/?C=N;O=D
+link para download:
+ ```https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/?C=N;O=D
 
 ```
 
 # 🖥️ Como rodar o script
 Clone este repositório:
 
-```git clone https://github.com/seu-usuario/seu-repo.git
+```bash 
+git clone https://github.com/seu-usuario/seu-repo.git
 
 ```
 ## Instale as dependências:
