@@ -51,13 +51,13 @@ UF_FILTRADA = "MG"
 
 ```
 
-Você irá precisar dos arquivos com os dados, que é disponibilizado no 
-portal gov.br são um total de 10 arquivos que tem os dados com o CNPJ 
-e um arquivo com o código de todos os municipios. 
+Você irá precisar dos arquivos com os dados, que são disponibilizados no 
+portal gov.br. São um total de 10 arquivos que contêm os dados do CNPJ 
+e um arquivo com o código de todos os municípios. 
 
 link para download:
- ```https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/?C=N;O=D
-
+```text
+https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/?C=N;O=D
 ```
 
 # 🖥️ Como rodar o script
@@ -69,10 +69,12 @@ git clone https://github.com/seu-usuario/seu-repo.git
 ```
 ## Instale as dependências:
 
-```pip install pandas openpyxl
+```bash 
+pip install pandas openpyxl
 ```
 ## Execute o script:
 
-```python script.py
+```bash
+ python script.py
 
 
