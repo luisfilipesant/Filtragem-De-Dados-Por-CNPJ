@@ -52,16 +52,16 @@ UF_FILTRADA = "MG"
 
 ```
 =======
-UF_FILTRADA = "MG" ´´´
->>>>>>> 92855dfa12f430ac32cf11d7175eff32d2e4ca14
+UF_FILTRADA = "MG" 
+´´´
 
 Você irá precisar dos arquivos com os dados, que é disponibilizado no 
 portal gov.br são um total de 10 arquivos que tem os dados com o CNPJ 
 e um arquivo com o código de todos os municipios. 
 
-link para download: ```https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/?C=N;O=D```
+link para download: ```https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/?C=N;O=D
 
-
+´´´
 
 # 🖥️ Como rodar o script
 Clone este repositório:
