@@ -53,7 +53,7 @@ UF_FILTRADA = "MG"
 
 Você irá precisar dos arquivos com os dados, que são disponibilizados no 
 portal gov.br. São um total de 10 arquivos que contêm os dados do CNPJ 
-e um arquivo com o código de todos os municípios, para padrozinar e evitar erros 
+e um arquivo com o código de todos os municípios, para padronizar e evitar erros 
 chamei os arquivos com o padrão PLAN1.ESTABELE e assim sucessivamente.
 
 link para download:
