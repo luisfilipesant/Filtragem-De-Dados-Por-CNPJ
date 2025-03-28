@@ -47,7 +47,7 @@ CNAES_CONTABILIDADE = ["6920601", "6920602", "7020400"]
 SITUACAO_ATIVA = "02"
 
 # Estado que deseja filtrar (ex: "MG", "SP")
-UF_FILTRADA = "MG"```
+UF_FILTRADA = "MG" ´´´
 
 Você irá precisar dos arquivos com os dados, que é disponibilizado no 
 portal gov.br são um total de 10 arquivos que tem os dados com o CNPJ 
