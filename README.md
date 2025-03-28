@@ -63,8 +63,7 @@ link para download: ```https://arquivos.receitafederal.gov.br/dados/cnpj/dados_a
 # 🖥️ Como rodar o script
 Clone este repositório:
 
-```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+```git clone https://github.com/seu-usuario/seu-repo.git
 
 ```
 ## Instale as dependências:
